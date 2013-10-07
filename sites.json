@@ -4,7 +4,12 @@
         "url": "http://www.4shared.com/web/account/settings#overview",
         "difficulty": "easy"
     },
-
+{
+        "name": "Hostgator",
+        "url": "https://www.hostgator.com/cancel.php",
+        "difficulty": "hard"
+        "notes": "Login into cancel page and they'll send you an email."
+    },
     {
         "name": "500px",
         "url": "https://500px.com/settings",
